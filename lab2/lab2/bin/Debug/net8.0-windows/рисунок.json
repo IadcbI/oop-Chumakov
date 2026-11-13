@@ -1,0 +1,16 @@
+[
+  {
+    "Kind": "RectShape",
+    "Start": {
+      "X": 612,
+      "Y": 170
+    },
+    "End": {
+      "X": 54,
+      "Y": 163
+    },
+    "ColorArgb": -65536,
+    "Width": 4,
+    "Points": null
+  }
+]
